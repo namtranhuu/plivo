@@ -1,2 +1,2 @@
-# plivo
-Plivo package for Meteor
+# Plivo
+Plivo NodeJS helper library for Meteor
